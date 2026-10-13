@@ -1,5 +1,4 @@
 # User Stories
-Format: As a [type of user], I want [goal], so that [reason or benefit].
 
 1. As a person who often lost an item, I want to post details about my missing belonging, so that others can help me recover it quickly.
 
